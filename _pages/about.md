@@ -30,9 +30,9 @@ redirect_from:
     <h3 style="margin: 0; color: #2c3e50; font-size: 1.2rem;">University of Science and Technology Beijing</h3>
   </div>
   <ul style="margin: 0; padding-left: 2rem; color: #34495e;">
-    <li><strong>Bachelor of Science in Artificial Intelligence</strong></li>
-    <li><strong>School of Intelligence Science and Technology</strong></li>
-    <li><strong>Expected Graduation:</strong> 2026</li>
+    <li style="font-weight: 500;">Bachelor of Artificial Intelligence</li>
+    <li style="font-weight: 500;">School of Intelligence Science and Technology</li>
+    <li style="font-weight: 500;">Expected Graduation: 2026</li>
   </ul>
 </div>
 
@@ -62,7 +62,7 @@ redirect_from:
 ## 💻 Technical Skills
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #58d68d; margin-bottom: 2rem;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.2rem;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem;">
     <div>
       <h4 style="color: #27ae60; margin-bottom: 0.5rem; font-size: 1rem;">🖥️ Programming Languages</h4>
       <p style="margin: 0; color: #34495e; font-size: 0.95rem;">C, C++, Python, Markdown</p>
