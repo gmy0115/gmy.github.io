@@ -9,7 +9,7 @@ redirect_from:
 
 ## Personal Introduction
 
-Hello! I'm Mingyang Gao, a passionate student and researcher in the field of artificial intelligence and computer science. I am currently pursuing my academic journey at the University of Science and Technology Beijing (USTB), where I focus on developing innovative solutions in machine learning and data science.
+Hello! I'm Mingyang Gao, a passionate student and researcher in the field of artificial intelligence and computer science. I am currently pursuing my academic journey at the [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn/), where I focus on developing innovative solutions in machine learning and data science.
 
 ## Education
 
@@ -44,12 +44,6 @@ My research interests span across several exciting areas in artificial intellige
 ## Current Focus
 
 I am currently working on several exciting projects that combine my interests in machine learning and practical applications. My goal is to develop AI solutions that can make a meaningful impact in real-world scenarios.
-
-## Contact & Links
-
-- **Email**: 17362900115@163.com
-- **GitHub**: [gmy0115](https://github.com/gmy0115)
-- **Google Scholar**: [Academic Profile](https://scholar.google.com.hk/citations?user=DPLwm6oAAAAJ&hl=zh-CN)
 
 ## Academic Links
 
