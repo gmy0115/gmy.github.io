@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv-json/
@@ -32,4 +32,4 @@ redirect_from:
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/resume_zh_CN.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+</div> -->
