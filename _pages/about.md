@@ -56,6 +56,11 @@ redirect_from:
       <h4 style="margin: 0 0 0.5rem 0; color: #2c3e50;">🤖 Large Language Models</h4>
       <p style="margin: 0; font-size: 0.95rem; color: #34495e;">Research on foundation models, prompt engineering, and large-scale language model applications</p>
     </div>
+    
+    <div style="background: white; padding: 1rem; border-radius: 6px; border: 1px solid #e1e8ed; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <h4 style="margin: 0 0 0.5rem 0; color: #2c3e50;">🧠 Artificial Intelligence</h4>
+      <p style="margin: 0; font-size: 0.95rem; color: #34495e;">Machine learning algorithms, neural networks, deep learning architectures, and AI system development</p>
+    </div>
   </div>
 </div>
 
@@ -96,7 +101,7 @@ redirect_from:
 ---
 
 <div style="text-align: center; background: linear-gradient(135deg, #e3f2fd 0%, #f3e5f5 100%); padding: 2rem; border-radius: 10px; border: 1px solid #e1e8ed;">
-  <h3 style="margin: 0 0 1rem 0; font-size: 1.2rem; color: #2c3e50;">🤝 Let's Connect!</h3>
+  <h3 style="margin: 0 0 1rem 0; font-size: 1.2rem; color: #2c3e50;">🤝 Feel Free to Connect Me!</h3>
   <p style="margin: 0; font-size: 1rem; line-height: 1.6; color: #34495e;">
     I'm always interested in collaborating on interesting projects and research opportunities. Feel free to reach out if you'd like to discuss potential collaborations or have any questions about my work!
   </p>
