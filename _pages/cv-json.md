@@ -19,7 +19,7 @@ redirect_from:
     float: none;
     padding-right: 0;
   }
-  
+
   @media (min-width: 80em) {
     .archive {
       width: 70%;
@@ -30,6 +30,6 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/resume_zh_CN.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>

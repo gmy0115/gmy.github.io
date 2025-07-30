@@ -23,14 +23,14 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /cv/
+
+  - title: "CV"
+    url: /cv-json/
 
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "中文简历"
-    url: /chinese-cv/
+  # - title: "中文简历"
+  #   url: /chinese-cv/
