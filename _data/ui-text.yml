@@ -290,7 +290,7 @@ zh: &DEFAULT_ZH
   follow_label               : "关注："
   feed_label                 : "打赏"
   powered_by                 : "技术支持："
-  website_label              : "网站"
+  website_label              : "博客"
   email_label                : "电子邮件"
   recent_posts               : "最新文章"
   undefined_wpm              : "_config.yml中未定义words_per_minute参数"
